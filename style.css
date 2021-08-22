@@ -1,0 +1,170 @@
+body {
+    margin: 0 auto;
+    height: auto;
+    width: 700px;
+    font-family: Arial;
+}
+
+header.header {
+    width: 700px;
+    height: 150px;
+    background-color: rgb(32, 86, 172);
+}
+
+section.section {
+    width: 700px;
+    height: 443px;
+    background-color:#fff;
+}
+
+.icon {
+    margin-left: 35px;
+    text-align: center;
+    padding-top: 52px;
+}
+
+h3 {
+    color: white;
+    font-size: 15px;
+    margin-top: 1px;
+}
+
+.nav {
+    margin-left: -10px;
+    width: 700px;
+    height: 50px;
+    font-size: 9px;
+}
+
+ul {
+    width: 50%;      
+    margin: 0px 166px;
+}
+
+.nav ul li{
+    float: left;
+    list-style: none;
+    padding-top: 28px;
+}
+
+.nav ul li a{
+   text-decoration: none;
+   color: white;
+   padding: 9px;
+}
+
+.nav ul li a:hover{
+    background-color: white;
+    color: #2056ac;
+    border-radius: 2px;
+}
+
+.section_img {
+    padding-top: 13px;
+    width: 700px;
+    height: 188px;
+    text-align: center;
+}
+
+img.section_img_main {
+    width: 497px;
+    height: 188px;
+}
+
+.text {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.text_1 {
+    font-size: 10px;
+}
+
+u {
+    text-decoration-color: rgb(32,86,1772);
+    color: rgb(32,86,172);
+    cursor: pointer;
+}
+
+.section_about {
+    width: 700px;
+    height: 117px;
+    background-color: rgb(227,240,247);
+    margin-top: 15px;
+}
+.section_about-item {
+    
+    padding-top: 18px;
+    padding-left: 95px;
+}
+
+.section_about-icon {
+    float: left;
+    text-align: center;
+    padding: 10px 24px;
+    
+}
+
+footer.footer {
+    width: 700px;
+    height: 117px;
+    background-color: rgb(32,86,172);
+    float: left;
+    text-align: center;
+}
+
+.footer_img {
+    float: left;
+    height: 16px;
+    width: 700px;
+}
+
+img.footer_img-one {
+    float: left;
+    width: 700px;
+    height: 120px;
+}
+
+p.text_1_item {
+    padding-top: 40px;
+    color: #fff;
+}
+
+.front {
+    float: left; 
+    padding-top: 15px;
+    color: #fff;
+    margin-left: 40%;
+}
+
+.icon_twitter {
+    float: left;
+    padding: 1px 5px 1px 5px;
+    background-color: #4c93b9;
+    margin: 0px 3px;
+    height: 20px;
+    width: 12px;
+}
+
+.icon_fb {
+    float: left;
+    padding: 1px 5px 1px 5px;
+    background-color: #4c93b9;
+    margin: 0px 3px;
+    height: 20px;
+    width: 12px;
+}
+
+.img_item {
+    float: left;
+    margin: 0px 3px;
+}
+
+.icon_rss {
+    float: left;
+    padding: 1px 5px 1px 5px;
+    background-color: #4c93b9;
+    margin: 0px 3px;
+    height: 20px;
+    width: 12px;
+}
